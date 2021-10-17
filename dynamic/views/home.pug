@@ -1,0 +1,9 @@
+extends layout
+
+block layout-content
+  h1 Dynamic Site Demo
+  p This dynamic site demo consists an express server, template engine (Pug), CSS, and JavaScript code.
+  p Clicking on the "Generate My Favourite Number" button will run some JavaScript on the server-side that will randomly generate a new number. A request to the server would have to be made each time.
+  button Generate My Favourite Number
+  p Your favourite number is: 
+    span #{favouriteNumber}
