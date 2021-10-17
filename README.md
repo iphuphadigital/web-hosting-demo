@@ -1,6 +1,6 @@
 # Hosting Demo (Static vs Dynamic)
 
-Dear developer, this demo serves to provide an interactive demonstration of the nuance differences between statically and dynamically hosted websites. Therefore, this is a companion repository to a [blog article](https://iphupha.co.za/blog/web-hosting-a-modern-secure-and-affordable-approach) that goes further into details explaining the different kinds of hosting and when and how to choose the correct hosting for your needs.
+Dear developer, this demo serves to provide an interactive demonstration of the nuance differences between statically and dynamically hosted websites. Therefore, this is a companion repository to a [blog article](https://iphupha.co.za/blog/web-hosting-a-modern-secure-fast-and-affordable-approach) that goes further into details explaining the different kinds of hosting and when and how to choose the correct hosting for your needs.
 
 ## Getting Started
 
